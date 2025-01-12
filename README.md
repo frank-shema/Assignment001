@@ -3,16 +3,16 @@
 This README provides a comprehensive guide on how to annotate an image by adding a rectangle and text with a transparent background using OpenCV. The coordinates are derived using an Image Map Generator and the reference image provided by the instructor.
 
 ## Table of Contents
-- [Dependencies](#dependencies)
-- [Overview](#overview)
-- [Step-by-Step Implementation](#step-by-step-implementation)
-  - [1. Setting Up the Environment](#1-setting-up-the-environment)
-  - [2. Reading the Image](#2-reading-the-image)
-  - [3. Drawing the Rectangle](#3-drawing-the-rectangle)
-  - [4. Adding Text with a Transparent Background](#4-adding-text-with-a-transparent-background)
-  - [5. Displaying and Saving the Annotated Image](#5-displaying-and-saving-the-annotated-image)
-- [Code Walkthrough](#code-walkthrough)
-- [Result](#result)
+- [Dependencies](Assignment/ASSIGNMENT001.md#dependencies)
+- [Overview](Assignment/ASSIGNMENT001.md#overview)
+- [Step-by-Step Implementation](Assignment/ASSIGNMENT001.md#step-by-step-implementation)
+  - [1. Setting Up the Environment](Assignment/ASSIGNMENT001.md#1-setting-up-the-environment)
+  - [2. Reading the Image](Assignment/ASSIGNMENT001.md#2-reading-the-image)
+  - [3. Drawing the Rectangle](Assignment/ASSIGNMENT001.md#3-drawing-the-rectangle)
+  - [4. Adding Text with a Transparent Background](Assignment/ASSIGNMENT001.md#4-adding-text-with-a-transparent-background)
+  - [5. Displaying and Saving the Annotated Image](Assignment/ASSIGNMENT001.md#5-displaying-and-saving-the-annotated-image)
+- [Code Walkthrough](Assignment/ASSIGNMENT001.md#code-walkthrough)
+- [Result](Assignment/ASSIGNMENT001.md#result)
 
 ---
 
