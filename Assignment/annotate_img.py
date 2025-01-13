@@ -1,5 +1,6 @@
 import cv2
 
+
 # Read the image
 image = cv2.imread('../Basic_Operations/assignment-001-given.jpg')
 
